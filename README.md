@@ -1,4 +1,4 @@
-# Docker Projects practice
+# Docker Projects Examples
 
 This repository contains two Dockerized applications
 
